@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 手书与 PV 制作"
+  short_description: "制作与返修手绘角色PV，核对身份、动作、分层合成及实际成片"
+  default_prompt: "使用 $ai-handdrawn-video，依据本次简报与角色设定创建或返修手书视频，并验证实际导出的成片。"
